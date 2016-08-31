@@ -1,2 +1,1 @@
-# Quizzotica
-# Quizzotica
+# Quzzotica
